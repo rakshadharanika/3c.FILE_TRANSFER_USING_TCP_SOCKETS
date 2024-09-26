@@ -1,4 +1,8 @@
-# 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+# 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS                                                                                                                                                                  
+### DATE: 26/09/2024
+### NAME: Raksha dharanika v
+### ROLL NO : 212223230167
+### DEPARTMENT: Aids                                                                                                                                                                                                                   
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
